@@ -2,7 +2,7 @@
   "name": "master-monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LinnLinnHtun1197.github.io/monster-rolodax",
+  "homepage": "https://linnlinnhtun1197.github.io/monster-rolodax",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
